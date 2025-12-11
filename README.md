@@ -1,5 +1,4 @@
 ## Hi, I'm Paul
------
 **MSBA Candidate at Georgetown University | Baseball Data Analyst at Georgetown University**
 <!--
 **pdglenchur-glitch/pdglenchur-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
