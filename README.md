@@ -17,7 +17,7 @@ This app visualizes baseball-specific motion-capture data to create easily inter
 
 -------
 
-## Linkedin User Prediction App
+## Linkedin User Prediction App 📱
 This project predicts the probability that an individual is a Linkedin user depending on a series of demographic factors. This application was created as part of a project for the Georgetown MSBA program, utilizing public data from Pew (to be used for educational and training purposes only).
 
 [View Project](https://github.com/pdglenchur-glitch/Linkedin_Log_Reg)
