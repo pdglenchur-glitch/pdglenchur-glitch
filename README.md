@@ -10,3 +10,5 @@ I create analytical tools that turn raw data into actionable insights across a v
 This app visualizes baseball-specific motion-capture data to create easily interpretable reports for player, coaches, and anyone of interest.
 
   [View project](https://github.com/pdglenchur-glitch/Pitcher-Report-App-Yakker-) 
+
+  [(https://img.youtube.com/vi/TIYtF9WfKQk/0.jpg)](https://youtu.be/TIYtF9WfKQk)
