@@ -7,7 +7,7 @@ I create analytical tools that turn raw data into actionable insights across a v
 ## Projects
 
 ## Pitcher Report Builder ⚾️
-This app visualizes baseball-specific motion-capture data to create easily interpretable reports for player, coaches, and anyone of interest.
+This web application visualizes baseball-specific motion-capture data to create easily interpretable reports for player, coaches, and anyone of interest.
 
 [View project](https://github.com/pdglenchur-glitch/Pitcher-Report-App-Yakker-) 
 
@@ -21,3 +21,11 @@ This app visualizes baseball-specific motion-capture data to create easily inter
 This project predicts the probability that an individual is a Linkedin user depending on a series of demographic factors. This application was created as part of a project for the Georgetown MSBA program, utilizing public data from Pew (to be used for educational and training purposes only).
 
 [View Project](https://github.com/pdglenchur-glitch/Linkedin_Log_Reg)
+
+## Pitcher Report Builder SQL/Tableau Iteration
+This project rebuilds the visualization output from the Pitcher Report Builder web application utilizing SQL and Tableau. The end to end process generates a processed CSV file that is then used to create an interactive Tableau visualization to further examine pitcher performance.
+
+[View the Dashboard](https://public.tableau.com/shared/RHDJN4G2Z?:display_count=n&:origin=viz_share_link)
+
+<img width="500" height="300" alt="Screenshot 2026-01-05 182321" src="https://github.com/user-attachments/assets/53c5ad6b-709e-40a3-93cd-2bdfdc734b2b" />
+
