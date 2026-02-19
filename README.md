@@ -23,6 +23,16 @@ This project predicts the probability that an individual is a Linkedin user depe
 [View Project](https://github.com/pdglenchur-glitch/Linkedin_Log_Reg)
 
 ------- 
+## 📊 ESOP Ownership Trends Tableau Dashboard
+
+Interactive visualization analyzing national ESOP statistics from the NCEO dataset.
+
+🔗 **Live Dashboard:**  
+https://pdglenchur-glitch.github.io/esop_dashboard/
+
+[View the Dashboard](https://github.com/pdglenchur-glitch/esop_dashboard)
+
+--------
 
 ## Pitcher Report Builder SQL/Tableau Iteration
 This project rebuilds the visualization output from the Pitcher Report Builder web application utilizing SQL and Tableau. The end to end process generates a processed CSV file that is then used to create an interactive Tableau visualization to further examine pitcher performance.
