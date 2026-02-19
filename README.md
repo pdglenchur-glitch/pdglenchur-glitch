@@ -27,6 +27,8 @@ This project predicts the probability that an individual is a Linkedin user depe
 
 Interactive visualization analyzing national ESOP statistics from the NCEO dataset.
 
+[![ESOP Dashboard Preview](https://github.com/pdglenchur-glitch/esop_dashboard/blob/main/assets/esop_preview.png?raw=true)](https://github.com/pdglenchur-glitch/esop_dashboard)
+
 🔗 **Live Dashboard:**  
 https://pdglenchur-glitch.github.io/esop_dashboard/
 
