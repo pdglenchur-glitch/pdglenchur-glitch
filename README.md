@@ -48,6 +48,13 @@ Interactive visualization analyzing national ESOP statistics from the NCEO datas
   <img src="https://raw.githubusercontent.com/pdglenchur-glitch/esop_dashboard/main/assets/esop_preview.png" width="700">
 </a>
 
+### Key Insights
+1. Publicly traded companies are only 8.1% of ESOPs but hold 82.5% of participants and 83.4% of assets — the average public ESOP holds ~$2.85B vs. ~$50M for private plans.
+
+2. Plan count fell 2.5% from 2014–2022 (6,718 → 6,548) while participants grew 6.5% (14.05M → 14.96M), pointing to consolidation into larger plans.
+
+3. Manufacturing, Professional Services, and Construction make up over half of all ESOP companies; California leads in plan count (781), while Arkansas stands out with ~43K participants per plan — nearly 20x the national average.
+
 [View the Dashboard Here](https://public.tableau.com/views/ESOPDataDashboard/ESOPDataDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 --------
