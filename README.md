@@ -16,6 +16,12 @@ This web application visualizes baseball-specific motion-capture data to create 
 [![Watch the Demo](https://img.youtube.com/vi/TIYtF9WfKQk/0.jpg)](https://youtu.be/TIYtF9WfKQk)
 
 -------
+## Nike Competitive Analysis Dashboard
+This project analyzes Nike's financial statements vs. Adidas, Lululemon, and Under Armour, FY2023–2025. The project normalized four companies' financials (multi-currency, multi-fiscal-calendar) into a PostgreSQL model, caught and fixed three real data-quality bugs during a source-reconciliation audit, and shipped a live Tableau dashboard.
+
+**Stack:** PostgreSQL (window functions, generated columns, views) · SQL data modeling · Tableau
+
+-------
 
 ## Linkedin User Prediction App 📱
 This project predicts the probability that an individual is a Linkedin user depending on a series of demographic factors. This application was created as part of a project for the Georgetown MSBA program, utilizing public data from Pew (to be used for educational and training purposes only).
