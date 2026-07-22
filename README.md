@@ -1,5 +1,5 @@
-# Hi, I'm Paul
-**MSBA Candidate at Georgetown University | Baseball Data Analyst at Georgetown University**
+# Paul Glenchur
+**MSBA Candidate at Georgetown University | Baseball Data Analyst at Georgetown University | Technical Intern Specializing in Data Analytics at FINRA**
 
 I create analytical tools that turn raw data into actionable insights across a variety of industries. I am always curious, and looking to provide explanations that will create value for your organization. 
 
