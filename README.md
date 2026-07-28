@@ -1,5 +1,6 @@
 # Paul Glenchur
 **MSBA Candidate at Georgetown University | Baseball Data Analyst at Georgetown University **
+-----
 
 I create analytical tools that turn raw data into actionable insights across a variety of industries. I am always curious, and looking to provide explanations that will create value for your organization. 
 
