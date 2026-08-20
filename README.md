@@ -30,7 +30,7 @@ This project analyzes Nike's financial statements vs. Adidas, Lululemon, and Und
 
 **Stack:**  PostgreSQL (window functions, generated columns, views) · SQL data modeling · Tableau (parameters, calculated fields, cross-sheet filtering)
 
-<img src="https://raw.githubusercontent.com/pdglenchur-glitch/nike_competitive_analysis/main/nike_dashboard_ss.png" width="600">
+<img src="https://raw.githubusercontent.com/pdglenchur-glitch/nike_competitive_analysis/main/nike_dashboard_ss.png?v=2" width="600">
 
 ### Key Insights:
 - **Profit is falling ~4x faster than revenue.** Nike's FY2025 revenue fell 9.84% YoY, but net income fell 43.5%, driven by real margin compression (gross margin -1.83pp, operating margin -4.30pp).
