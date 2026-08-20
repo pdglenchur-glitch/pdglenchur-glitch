@@ -28,7 +28,7 @@ This project predicts the probability that an individual is a Linkedin user depe
 ## Nike Competitive Analysis Dashboard
 This project analyzes Nike's financial statements vs. Adidas, Lululemon, and Under Armour, FY2023–2025. The project normalized four companies' financials (multi-currency, multi-fiscal-calendar) into a PostgreSQL model, caught and fixed three real data-quality bugs during a source-reconciliation audit, and shipped a live Tableau dashboard.
 
-**Stack:** PostgreSQL (window functions, generated columns, views) · SQL data modeling · Tableau
+**Stack:**  PostgreSQL (window functions, generated columns, views) · SQL data modeling · Tableau (parameters, calculated fields, cross-sheet filtering)
 
 <img src="https://raw.githubusercontent.com/pdglenchur-glitch/nike_competitive_analysis/main/nike_dashboard_ss.png" width="600">
 
