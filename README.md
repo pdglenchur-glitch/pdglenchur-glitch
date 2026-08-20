@@ -67,3 +67,23 @@ This project rebuilds the visualization output from the Pitcher Report Builder w
 
 <img width="500" height="300" alt="Screenshot 2026-01-05 182321" src="https://github.com/user-attachments/assets/53c5ad6b-709e-40a3-93cd-2bdfdc734b2b" />
 
+-------
+
+## 📈 Market & AI Pulse
+An end-to-end data analytics pipeline that sources market, macroeconomic, and AI-sector data from five live APIs, models it through a SQL-based medallion (bronze/silver/gold) architecture on Databricks, and publishes a free, automatically refreshing public dashboard on a daily cron with zero manual intervention.
+
+**Stack:** GitHub Actions (orchestration) · Databricks (PySpark, Unity Catalog, medallion architecture) · Python · Cloudflare R2 · Static JS dashboard on GitHub Pages
+
+<a href="https://pdglenchur-glitch.github.io/market_ai_pulse/">
+  <img src="https://raw.githubusercontent.com/pdglenchur-glitch/market_ai_pulse/main/screenshots/DB_1.png" width="600">
+</a>
+<a href="https://pdglenchur-glitch.github.io/market_ai_pulse/">
+  <img src="https://raw.githubusercontent.com/pdglenchur-glitch/market_ai_pulse/main/screenshots/DB_2.png" width="600">
+</a>
+
+### Key Insights
+- **AI-sector concentration keeps paying off:** an AI-weighted basket is beating the S&P 500 by 66.8 points over the trailing year (+90.2% vs. +23.4%).
+- **AI infrastructure names outran the core basket, at nearly double the volatility**, with 3 of 10 individual names still underwater despite the group's return.
+- **10 of 11 S&P sectors show a reliable rate-sensitivity pattern**, useful for positioning ahead of a known Fed decision, with Energy the lone consistent exception.
+
+[View the Live Dashboard](https://pdglenchur-glitch.github.io/market_ai_pulse/) · [View the Repo](https://github.com/pdglenchur-glitch/market_ai_pulse)
