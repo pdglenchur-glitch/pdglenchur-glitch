@@ -70,7 +70,7 @@ This project rebuilds the visualization output from the Pitcher Report Builder w
 -------
 
 ## 📈 Market & AI Pulse
-An end-to-end data analytics pipeline that sources market, macroeconomic, and AI-sector data from five live APIs, models it through a SQL-based medallion (bronze/silver/gold) architecture on Databricks, and publishes a free, automatically refreshing public dashboard on a daily cron with zero manual intervention.
+An end-to-end data analytics pipeline that sources market, macroeconomic, and AI-sector data from five live APIs, models it through a SQL-based medallion (bronze/silver/gold) architecture on Databricks, and publishes a free, automatically refreshing public dashboard on a weekly cron with zero manual intervention.
 
 **Stack:** SQL (medallion architecture, window functions, CTEs) · GitHub Actions (orchestration) · Databricks (PySpark, Unity Catalog) · Python · Cloudflare R2 · Static JS dashboard on GitHub Pages
 
