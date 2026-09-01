@@ -82,8 +82,8 @@ An end-to-end data analytics pipeline that sources market, macroeconomic, and AI
 </a>
 
 ### Key Insights
-- **AI-sector concentration keeps paying off:** an AI-weighted basket is beating the S&P 500 by 66.8 points over the trailing year (+90.2% vs. +23.4%).
-- **AI infrastructure names outran the core basket, at nearly double the volatility**, with 3 of 10 individual names still underwater despite the group's return.
-- **10 of 11 S&P sectors show a reliable rate-sensitivity pattern**, useful for positioning ahead of a known Fed decision, with Energy the lone consistent exception.
+- **AI-sector concentration keeps paying off:** an equal-weighted AI basket is beating the S&P 500 by 59.4 points over the trailing year (+81.1% vs. +21.8%).
+- **AI infrastructure names outran the core basket at nearly double the volatility:** the 10 added infrastructure names returned +119.6% equal-weighted versus +41.3% for the 9 original core names. That came at 47% annualized volatility against 26% for the core, and 3 of the 10 infrastructure names are still down over the window.
+- **10 of 11 S&P sectors show the expected rate-sensitivity pattern:** they fall on rising-yield days and rally on falling-yield days, with Energy (XLE) the lone exception.
 
 [View the Live Dashboard](https://pdglenchur-glitch.github.io/market_ai_pulse/) · [View the Repo](https://github.com/pdglenchur-glitch/market_ai_pulse)
